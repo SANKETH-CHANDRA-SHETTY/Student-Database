@@ -1,0 +1,36 @@
+.header {
+  border: 2px black solid;
+  background-color: aquamarine;
+  color: aliceblue;
+  text-align: center;
+  width: 99%;
+  height: auto;
+  padding: 5px;
+  margin: 0px 0px 5px 0px;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  font-size: 50px;
+}
+
+.button_div {
+  width: 20%;
+  height: 250px;
+  border: 5px black solid;
+  position: absolute;
+  top: 150px;
+  left: 35%;
+  padding: 10px;
+  margin: 10px;
+}
+
+.buttons {
+  border: 5px rgb(234, 228, 228) solid;
+  background-color: bisque;
+  color: rgb(0, 162, 255);
+  text-align: center;
+  padding: 20px;
+  margin: 10px 0px 10px 0px;
+  position: relative;
+  width: 100%;
+}
